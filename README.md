@@ -23,4 +23,4 @@ You can edit the page by opening the src folder and within it, opening any of th
 To visualize your changes, make sure to save the file; it'll then automatically reload the page and display your changes.
 
 # HIPAA and Privacy
-This application, while used in a medical space, presently does not ask for, store, or retain any patient information that can be used to identify someone, posing no violation to HIPAA laws.
+This application, while used in a medical space, presently does not ask for, store, or manage any patient information that can be used to identify someone, posing no violation to HIPAA laws.
