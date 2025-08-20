@@ -1,12 +1,26 @@
-# React + Vite
+This is a ReactJS project bootstrapped with `create.react.app`
+# NCH Access Center Call Flows
+This is an internal site to be used by NCH Access Center employees to more efficiently guide patients and other callers to departments, schedule appointments, or to give solutions to medical questions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Getting Started
+First, change to the necessary directory
 
-Currently, two official plugins are available:
+Then make sure you have react and it's dependencies installed and open the development server:
+```
+npm install
+npm run dev
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If necessary, install `react-router` with the following on the command line:
+```
+npm install react-router-dom
+```
 
-## Expanding the ESLint configuration
+Open [localhost:5173](http://localhost:5173) with your browser to see the result
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+You can edit the page by opening the src folder and within it, opening any of the files to modify the code.
+
+To visualize your changes, make sure to save the file; it'll then automatically reload the page and display your changes.
+
+# HIPAA and Privacy
+This application, while used in a medical space, presently does not ask for, store, or manage any patient information that can be used to identify someone, posing no violation to HIPAA laws.
