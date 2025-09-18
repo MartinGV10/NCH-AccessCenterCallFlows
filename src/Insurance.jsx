@@ -103,7 +103,8 @@ function Insurance() {
                     <div className="re-cont"> 
                       <div className="re-selection sch-div">
                         <h3 className="re-title">New Patient</h3>
-                        <p className="info">Schedule with Dr. Smith or Dr. Gilson (first available)</p>
+                        {/* <p className="info">Schedule with Dr. Smith or Dr. Gilson (first available)</p> */}
+                        <p className="info">Schedule with first available doctor</p>
                         <p>60 min appt</p>
                       </div>
                       <div className="re-selection sch-div">
@@ -157,7 +158,8 @@ function Insurance() {
                 <div className="re-cont"> 
                   <div className="re-selection sch-div">
                     <h3 className="re-title">New Patient</h3>
-                    <p className="info">Schedule with Dr. Smith or Dr. Gilson (first available)</p>
+                    {/* <p className="info">Schedule with Dr. Smith or Dr. Gilson (first available)</p> */}
+                    <p className="info">Schedule with first available doctor</p>
                     <p>60 min appt</p>
                   </div>
                   <div className="re-selection sch-div">
@@ -188,7 +190,8 @@ function Insurance() {
                 <div className="re-cont"> 
                   <div className="re-selection sch-div">
                     <h3 className="re-title">New Patient</h3>
-                    <p className="info">Schedule with Dr. Smith or Dr. Gilson (first available)</p>
+                    {/* <p className="info">Schedule with Dr. Smith or Dr. Gilson (first available)</p> */}
+                    <p className="info">Schedule with first available doctor</p>
                     <p>60 min appt</p>
                   </div>
                   <div className="re-selection sch-div">

@@ -9,11 +9,13 @@ function Help() {
     }
 
     const handleNAP = () => {
-        window.open('/NAP.htm', '_blank');  // Correct way to open in a new tab
+        // window.open('/NAP.htm', '_blank');  // Correct way to open in a new tab
+        alert('This is hospital system information only and cannot be viewed by the public')
     };
 
     const handleGuidelines = () => {
-        window.open('/PTGuidelines.htm', '_blank');  // Correct way to open in a new tab
+        // window.open('/PTGuidelines.htm', '_blank');  // Correct way to open in a new tab
+        alert('This is hospital system information only and cannot be viewed by the public')
     };
 
 
